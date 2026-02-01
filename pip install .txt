@@ -1,9 +1,0 @@
-pip install dxcam
-pip install keyboard
-pip install mouse
-pip install ultralytics
-pip install pyserial
-pip install screeninfo
-pip install colorama
-pip install numpy
- replacer ecom Arduino 
